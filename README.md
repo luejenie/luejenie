@@ -3,12 +3,12 @@
 
 <div align="center">
 
-  <h4> This is luejenie😊</h4>
+  <h3> This is luejenie😊</h3>
   
-  <h5>
+  <h4>
   🖥️ junior <br><br>
   📫 luejenie@gmail.com
-  </h5>
+  </h4>
   
   <br>
   
