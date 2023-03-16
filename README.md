@@ -39,6 +39,10 @@
   
 ![luejenie's GitHub stats](https://github-readme-stats.vercel.app/api?username=luejenie&title_color=FFC325&icon_color=FFC325)
 
+<br>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluejenie&count_bg=%23E7F14C&title_bg=%234E4E4E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 </div>
 
 
